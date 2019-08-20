@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Thu Jul 25 10:16:10 CST 2019
+1.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\myserial\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\myserial\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+3.set=NATIVE_RESOURCE
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=lib/armeabi-v7a/libserial_port.so
+count=4
+1.set=NATIVE_RESOURCE
+0.path=lib/armeabi/libserial_port.so
+3.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\myserial\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+0.set=NATIVE_RESOURCE
+0.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\myserial\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.baseType=DIRECTORY
+1.path=lib/x86/libserial_port.so
